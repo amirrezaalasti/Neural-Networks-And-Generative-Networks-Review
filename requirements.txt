@@ -1,0 +1,19 @@
+# Core Libraries
+torch==1.12.1
+
+# Data Processing
+numpy==1.23.3
+pandas==1.5.2
+scikit-learn==1.1.2
+scipy==1.9.3
+
+# Visualization
+matplotlib==3.6.2
+seaborn==0.11.2
+
+# Utilities
+tqdm==4.64.1
+requests==2.28.1
+
+# Optional: For Jupyter Notebooks
+jupyterlab==3.5.3
